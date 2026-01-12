@@ -5,7 +5,7 @@ module.exports.config = {
   name: "autoreplybot",
   version: "6.0.2",
   hasPermssion: 0,
-  credits: "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦",
+  credits: "Adil Rahman (NA RU TO)",
   description: "Auto-response bot with specified triggers",
   commandCategory: "No Prefix",
   usages: "[any trigger]",
